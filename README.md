@@ -2,7 +2,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen)](https://utkarsh067.github.io/GitHub_Pages_Website/)
 
-This repository hosts a simple static website deployed using **GitHub Pages** as part of **TASK 6: Host a Static Website with GitHub Pages**.
+This repository contains a simple, responsive static website built with HTML and CSS. The site is hosted and deployed using **GitHub Pages**, making it accessible via a live URL. It includes links to my LinkedIn and GitHub profiles, along with a link to the project's source code repository.
 
 ---
 
